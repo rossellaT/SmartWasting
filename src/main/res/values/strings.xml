@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartWasting</string>
+    <string name="welcome">Benvenuto! Scopri dove buttare la tua spazzatura cliccando sul pulsante!</string>
+    <string-array name="categories">
+        <item>Plastica</item>
+        <item>Carta</item>
+        <item>Vetro</item>
+    </string-array>
+</resources>
